@@ -11,4 +11,4 @@
 *Using the nano command
 *Control to get out...
 
-
+##Learning Git is easy and fun with Coursera! :P 
